@@ -108,16 +108,16 @@ const sleep = (ms) => {
   return (
     <div className="root">
       <Head>
-        <title>AI picture generator | buildspace</title>
+        <title>Color picture generator | buildspace</title>
       </Head>
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>AI picture generator</h1>
+            <h1>Color picture generator</h1>
           </div>
           <div className="header-subtitle">
             <h2>
-              Turn me into anyone you want! Make sure you refer to me as "younggracekelly" in the prompt
+              Enter in your favorite color
             </h2>
           </div>
           {/* Add prompt container here */}
